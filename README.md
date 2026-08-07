@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eagle-monk" alt="eagle-monk" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eagle-monk](https://github.com/eagle-monk)
 
@@ -13,13 +13,11 @@
 
 - 📫 How to reach me **otikolia1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13uZrHq1V7HfU9kNG_i04A4_RVJsSylIZ/view?usp=sharing](https://drive.google.com/file/d/13uZrHq1V7HfU9kNG_i04A4_RVJsSylIZ/view?usp=sharing)
-
 - ⚡ Fun fact **I treat missing values like detective cases — and I don’t rest until they’re solved**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-narayan-tikolia-962061bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-narayan-tikolia-962061bb/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-narayan-tikolia-962061bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ommnt/" height="30" width="40" /></a>
 <a href="https://kaggle.com/omnarayantikolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omnarayantikolia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/otikolia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="otikolia1" height="30" width="40" /></a>
 </p>
